@@ -12,3 +12,6 @@ Combo Disk Boot Loader
 ;= automatically detecting which kind of drive is attached.   =
 ;==============================================================
 ```
+
+Assembled for the Cromemco ZPU at jump address F000h
+
