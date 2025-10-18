@@ -1,2 +1,2 @@
 # CDBL
-Common Disk Boot Loader
+Combo Disk Boot Loader
